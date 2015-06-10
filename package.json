@@ -1,0 +1,29 @@
+{
+  "name": "gitbook-plugin-baiduana",
+  "description": "gitbook plugin for baidu analytics",
+  "main": "index.js",
+  "version": "1.0.0",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/codepiano/gitbook-plugin-baiduana",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codepiano/gitbook-plugin-baiduana.git"
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/codepiano/gitbook-plugin-baiduana/issues"
+  },
+  "keywords": [
+    "gitbook",
+    "baidu",
+    "plugin"
+  ],
+  "author": "codepiano",
+  "_from": "git://github.com/codepiano/gitbook-plugin-baiduana",
+  "_fromGithub": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
