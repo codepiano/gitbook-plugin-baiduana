@@ -13,6 +13,8 @@ gitbook-plugin-baidu
 
 ## 安装使用方法
 
+在gitbook安装目录执行
+
 ```
 npm install gitbook-plugin-baiduana
 ```
@@ -30,4 +32,4 @@ npm install gitbook-plugin-baiduana
 }
 ```
 
-_未在 gitbook2.0 下测试_
+_未在 gitbook2.0 下测试，理论上可以使用_
